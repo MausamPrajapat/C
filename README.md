@@ -1,3 +1,1 @@
-# C
-Hello world
-hi ysdzd
+hello mausum is nerd
